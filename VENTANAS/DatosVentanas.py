@@ -9,7 +9,7 @@ ventana.title("Sistema de Monitoreo-Principal")
 #Estas variables nos van a servir para compartir datos
 
 temperatura_actual = tk.StringVar()
-temperatura_actual.set("--")
+temperatura_actual.set("")
 
 #ventana principal
 ##Etiqueta
